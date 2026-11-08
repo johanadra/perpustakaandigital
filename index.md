@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Manajemen Koleksi Perpustakaan](ebook/Manajemen_Koleksi_Perpustakaan.pdf)
 8. [Mengenal Katalogisasi dan Klasifikasi](ebook/Mengenal_Katalogisasi_dan_Klasifikasi.pdf)
 9. [Panduan Layanan Perpustakaan Digital](ebook/Panduan_Layanan_Perpustakaan_Digital.pdf)
-10. [Pengantar_Ilmu_Perpustakaan_dan_Informasi](Pengantar_Ilmu_Perpustakaan_dan_Informasi.pdf)
+10. [Pengantar Ilmu Perpustakaan dan Informasi](ebook/Pengantar_Ilmu_Perpustakaan_dan_Informasi.pdf)
 11. [Resume UGC Johan Ade Razzaq](ebook/Resume_UGC_Johan_Ade_Razzaq.pdf)
 ---
 *Powered by GitHub Pages*
