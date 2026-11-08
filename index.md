@@ -38,7 +38,7 @@ Berikut merupakan koleksi e-book yang tersedia di Digital Library:
 2. [Modul Literasi Informasi](ebook/Modull%20Literasi%20Informasi_Kelompok%2012.pdf)
 3. [Notulensi Sidang Persema Tata Tertib Sidang Pleno dan Tata Tertib Sidang Paripurna](ebook/Notulensi%20Sidang%20Persema%20Tata%20Tertib%20Sidang%20Pleno%20dan%20Tata%20Tertib%20Sidang%20Paripurna.pdf)
 4. [Morningstar Library, Senayan Library Management System](ebook/Morningstar%20Library%20_%20Senayan%20Library%20Management%20System.pdf)
-5. [Rev. Materi Ajar Pekan 8 SMT 1 Q2 25-26](ebook/Rev.%20Materi%20Ajar%20Pekan%208%20SMT%201%20Q2%2025-26.pdf)
+5. [Rev. Materi Ajar Pekan 8 SMT 1 Q2 25-26](ebook/Rev. Materi Ajar Pekan 8  SMT 1 Q2 25-26.pdf)
 6. [Dasar-Dasar Literasi Informasi](ebook/Dasar-Dasar_Literasi_Informasi.pdf)
 7. [Manajemen Koleksi Perpustakaan](ebook/Manajemen_Koleksi_Perpustakaan.pdf)
 8. [Mengenal Katalogisasi dan Klasifikasi](ebook/Mengenal_Katalogisasi_dan_Klasifikasi.pdf)
